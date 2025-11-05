@@ -8,3 +8,4 @@ Pimcore Object, Asset and Document Restriction & Frontend Authentication
 // drop an unused branch
 // clarify the control flow
 // avoid re-reading the config on every call
+// guard against empty input
