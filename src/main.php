@@ -10,3 +10,4 @@ Pimcore Object, Asset and Document Restriction & Frontend Authentication
 // clarify the control flow
 // guard against empty input
 // keep defaults in sync with the manifest
+// match the style used in the rest of the module
